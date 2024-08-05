@@ -1,1 +1,1 @@
-# Javaswrite
+Java script © 2024 por Beatriz Medeiros está licenciado sob Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. Para visualizar uma cópia desta licença, visite https://creativecommons.org/licenses/by-nc-nd/4.0/
